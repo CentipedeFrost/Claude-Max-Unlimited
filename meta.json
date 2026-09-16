@@ -1,0 +1,23 @@
+{
+  "repo": "claude-max-unlimited",
+  "product": "Claude Max Unlimited",
+  "kind": "productivity",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new4",
+  "format": "license-md-toolix-v1",
+  "category": "ai-assistant",
+  "topics": [
+    "claude-max",
+    "ai-research-desk",
+    "project-chat-windows",
+    "claude-desktop-2026",
+    "how-to-install-claude",
+    "claude-desktop-package",
+    "artifact-pins-suite",
+    "pdf-file-rack",
+    "custom-instructions-desk",
+    "claude-max-edition"
+  ],
+  "site": "toolix.me"
+}
